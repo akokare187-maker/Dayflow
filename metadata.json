@@ -1,0 +1,6 @@
+{
+  "name": "DayFlow",
+  "description": "Visual daily planning app with drag-and-drop schedule arrangement, time blocking, daily and weekly views, priority labels, reminders, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
